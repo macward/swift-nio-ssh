@@ -13,7 +13,7 @@
 //===----------------------------------------------------------------------===//
 
 import Foundation
-import NIO
+import NIOCore
 
 /// A signature is a mathematical scheme for verifying the authenticity of digital messages or documents.
 ///
